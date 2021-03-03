@@ -1,0 +1,80 @@
+{
+  "contact": {
+    "description": "Thank you for taking the time to check me out!  For any more information or to check out my other code projects, continue on to my LinkedIn, Github, or send me an mail to start a conversation.",
+    "form": {
+      "description": "Here's a contact form to avoid the 'mailto:' hassle!",
+      "inputs": {
+        "email": {
+          "error": "Please enter a correct Email",
+          "label": "E-Mail Address",
+          "placeholder": "username@domain.com",
+          "validation": "EmailAddress@domain.com"
+        },
+        "first-name": {
+          "error": "Please enter a correct Name",
+          "label": "First Name",
+          "placeholder": "First Name",
+          "validation": "a-Z (and most international variations)  , . ' -"
+        },
+        "last-name": {
+          "error": "Please enter a correct Name",
+          "label": "Last Name",
+          "placeholder": "Last Name",
+          "validation": "a-Z (and most international variations)  , . ' -"
+        },
+        "message": {
+          "error": "",
+          "label": "Additional Message (optional)",
+          "placeholder": "Write me...",
+          "validation": ""
+        },
+        "phone-number": {
+          "error": "Please enter a correct Phone Number",
+          "label": "Phone Number",
+          "placeholder": "(XXX) XXX-XXXX",
+          "validation": "US phone numbers only, please"
+        }
+      },
+      "title": "Contact Form"
+    },
+    "title": "Contact"
+  },
+  "home": {
+    "quotes": {
+      "de-plum": "only after enduring the bone-chilling cold shall you smell the fragrance of the plum blossom.",
+      "btth-ditch": "if you find yourself stuck in a ditch or forsaken by the world, don’t panic. take two steps forward and maybe you’ll find yourself stronger than ever before.",
+      "btth-happiness": "there are far more people willing to share in your happiness than aid in your sorrow.",
+      "btth-war": "the first drum boosts courage, the second lowers morale, and the third exhausts courage.",
+      "sotr-dream": "I made one dream through nine lifetimes and dried the vast oceans with one laugh. ask not how high the heavens are, I ride the waves myself",
+      "sotr-luck": "chance and luck wait for no one.",
+      "sotr-passivity": "playing it by ear means always residing in passivity. we make not a move because we choose to.",
+      "sotr-philosophy": "one gives birth to two, two gives birth to three, and three gives birth to all living beings.",
+      "sotr-profit": "all underneath the heavens congregate for profit. all underneath the heavens disperse for profit.",
+      "sotr-strength": "the strong control their destinies and the weak complain about their fates.",
+      "sotr-trust": "trust the ones you call upon, and don't call upon those you doubt."
+    },
+    "title": "Home title"
+  },
+  "not-found": {
+    "title": "404 Not Found"
+  },
+  "portfolio": {
+    "title": "Portfolio title"
+  },
+  "resume": {
+    "title": "Resume title"
+  },
+  "site": {
+    "common": {
+      "or": "or",
+      "submit": "Submit"
+    },
+    "navigation": {
+      "contact": "Contact",
+      "home": "Home",
+      "portfolio": "Portfolio",
+      "resume": "Resume"
+    },
+    "title": "Site title"
+  }
+}

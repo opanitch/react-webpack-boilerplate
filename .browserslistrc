@@ -1,0 +1,14 @@
+[mobile]
+iOS >= 9
+last 1 Android version
+last 2 Chrome versions
+last 2 ChromeAndroid versions
+last 2 Samsung versions
+
+[web]
+last 2 Chrome versions
+last 2 Firefox versions
+Edge >= 17
+Safari >= 10
+not IE 11
+not dead
