@@ -1,0 +1,12 @@
+export const BREAKPOINT_LABELS = {
+  XLARGE: 'XLARGE',
+  LARGE: 'LARGE',
+  MEDIUM: 'MEDIUM',
+  SMALL: 'SMALL',
+};
+
+export const BREAKPOINT_SIZES = {
+  LARGE: 1024,
+  MEDIUM: 768,
+  SMALL: 480,
+};

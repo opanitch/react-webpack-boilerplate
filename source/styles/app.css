@@ -1,0 +1,19 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* @import './fonts.css'; */
+@import './typography.css';
+@import './utilities.css';
+
+body {
+  @apply bg-black;
+}
+
+#portfolio {
+  @apply relative;
+}
+
+#home p::first-letter {
+  @apply capitalize;
+}
